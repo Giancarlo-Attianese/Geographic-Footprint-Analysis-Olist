@@ -1,6 +1,3 @@
-# Analisi Olist
-[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com)
-
 
 # 📊 Geographic Footprint Analysis – Olist E-commerce
 

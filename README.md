@@ -1,3 +1,7 @@
+# Analisi Olist
+[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com)
+
+
 # 📊 Geographic Footprint Analysis – Olist E-commerce
 
 Business & data analysis project focused on understanding the **geographic distribution of customers** in the Brazilian e-commerce platform Olist.  
